@@ -1,7 +1,7 @@
-This repository contains Java code for manually creating a doubly linked list class including these functionalities:
--Using generic objects
--Uses nodes
--Creating the list from an array  
+This repository contains Java code for manually creating a doubly linked list class including these functionalities:  
+-Using generic objects  
+-Uses nodes  
+-Creating the list from an array   
 -Creating a sub list  
 -Adding values to the end or in specified index  
 -To check if a value is in the list   
